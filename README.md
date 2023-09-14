@@ -3,8 +3,9 @@ I am a software engineer student at École de technologie supérieure.
 
 - 🌐 Visit my [portfolio website]() for more information and to get in touch.
 - ✍️ Follow me on [LinkedIn](https://pr2tik1.medium.com/) for more written content.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Marc187)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc187)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <!--
 <p align="center">
